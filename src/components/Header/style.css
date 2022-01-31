@@ -1,0 +1,33 @@
+.head {
+  background-color: #282828;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  color: white;
+}
+.title {
+  font-size: 18px;
+  margin-right: auto;
+}
+.title-right {
+  display: flex;
+  align-items: center;
+}
+.title-right > h4 {
+  margin-right: 20px;
+}
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 0.295);
+  padding: 3px;
+  width: 350px;
+  border-radius: 5px;
+}
+.searchIcon {
+  margin-right: 7px;
+}
+.input {
+  color: white;
+}

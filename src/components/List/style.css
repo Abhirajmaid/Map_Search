@@ -1,0 +1,10 @@
+.container {
+  padding-left: 20px;
+}
+.formControl {
+  width: 35%;
+}
+.list {
+  height: 75vh;
+  overflow: auto;
+}
